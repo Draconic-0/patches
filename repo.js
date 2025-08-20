@@ -5,7 +5,7 @@
 		"solomyon": "solo myon"
 	},
 	"servers": [
-		"https://github.com/Draconic-0/patches/tree/master/"
+		"https://raw.githubusercontent.com/Draconic-0/patches/master/"
 	],
 	"title": "yukarins mods"
 }

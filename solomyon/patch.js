@@ -4,7 +4,7 @@
 	],
 	"id": "solomyon",
 	"servers": [
-		"https://github.com/Draconic-0/patches/tree/master/solomyon/"
+		"https://raw.githubusercontent.com/Draconic-0/patches/master/solomyon/"
 	],
 	"title": "solo myon",
 	"update": true
