@@ -2,6 +2,7 @@
 	"contact": "yukari@imperishable-night.com",
 	"id": "yukarin",
 	"patches": {
+		"INBecomeHuman": "IN Become Human",
 		"solomyon": "solo myon"
 	},
 	"servers": [
