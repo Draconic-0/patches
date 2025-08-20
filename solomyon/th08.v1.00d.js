@@ -15,6 +15,14 @@
 		"youm_human_limit": {
 			"addr": "0x44DA63",
 			"code": "30F8"
+		},
+		"youm_youkai_limit": {
+			"addr": "0x44DA7E",
+			"code": "1027"
+		},
+		"youm_extreme_youkai": {
+			"addr": "0x44DA87",
+			"code": "401F",
 		}
 	}
 }
